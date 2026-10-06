@@ -1,0 +1,223 @@
+{
+  "source": "네이버_키워드_수수료건_0918.xlsx",
+  "capturedOn": "2026-09-18",
+  "method": "문서수 ÷ 월간검색량; 10 미만 황금, 10 이상 50 미만 중간, 50 이상 경쟁",
+  "rows": [
+    {
+      "keyword": "네이버커넥트설치",
+      "monthlySearches": 80,
+      "snapshotBlogDocuments": 544480,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "카드수수료인하",
+      "monthlySearches": 20,
+      "snapshotBlogDocuments": 91011,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "중소가맹점수수료",
+      "monthlySearches": 20,
+      "snapshotBlogDocuments": 33114,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "네이버페이머니결제",
+      "monthlySearches": 260,
+      "snapshotBlogDocuments": 89181,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "NPAY현장결제",
+      "monthlySearches": 120,
+      "snapshotBlogDocuments": 18046,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "네이버페이현장결제",
+      "monthlySearches": 4110,
+      "snapshotBlogDocuments": 99598,
+      "sourceGrade": "중간 키워드"
+    },
+    {
+      "keyword": "영세가맹점수수료",
+      "monthlySearches": 20,
+      "snapshotBlogDocuments": 22579,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "영세가맹점",
+      "monthlySearches": 30,
+      "snapshotBlogDocuments": 58588,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "네이버페이혜택",
+      "monthlySearches": 3180,
+      "snapshotBlogDocuments": 685202,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "네이버페이프로모션",
+      "monthlySearches": 130,
+      "snapshotBlogDocuments": 133830,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "카드수수료지원",
+      "monthlySearches": 60,
+      "snapshotBlogDocuments": 583636,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "카드가맹점수수료",
+      "monthlySearches": 240,
+      "snapshotBlogDocuments": 177151,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "소상공인수수료환급",
+      "monthlySearches": 90,
+      "snapshotBlogDocuments": 24261,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "간편결제",
+      "monthlySearches": 1440,
+      "snapshotBlogDocuments": 1553024,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "카드단말기",
+      "monthlySearches": 29850,
+      "snapshotBlogDocuments": 894824,
+      "sourceGrade": "중간 키워드"
+    },
+    {
+      "keyword": "네이버페이",
+      "monthlySearches": 771300,
+      "snapshotBlogDocuments": 2236094,
+      "sourceGrade": "황금 키워드"
+    },
+    {
+      "keyword": "네이버카드단말기",
+      "monthlySearches": 860,
+      "snapshotBlogDocuments": 127128,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "네이버단말기",
+      "monthlySearches": 2730,
+      "snapshotBlogDocuments": 238636,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "PAYCONNECT",
+      "monthlySearches": 100,
+      "snapshotBlogDocuments": 0,
+      "sourceGrade": "황금 키워드"
+    },
+    {
+      "keyword": "네이버커넥트단말기",
+      "monthlySearches": 5600,
+      "snapshotBlogDocuments": 10368,
+      "sourceGrade": "황금 키워드"
+    },
+    {
+      "keyword": "NPAY커넥트",
+      "monthlySearches": 570,
+      "snapshotBlogDocuments": 5197,
+      "sourceGrade": "황금 키워드"
+    },
+    {
+      "keyword": "커넥트단말기",
+      "monthlySearches": 100,
+      "snapshotBlogDocuments": 14470,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "간편결제단말기",
+      "monthlySearches": 20,
+      "snapshotBlogDocuments": 133840,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "모바일결제",
+      "monthlySearches": 480,
+      "snapshotBlogDocuments": 2266555,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "QR결제",
+      "monthlySearches": 560,
+      "snapshotBlogDocuments": 787004,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "네이버페이결제",
+      "monthlySearches": 7630,
+      "snapshotBlogDocuments": 1013762,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "스마트결제",
+      "monthlySearches": 50,
+      "snapshotBlogDocuments": 2584621,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "결제수단",
+      "monthlySearches": 410,
+      "snapshotBlogDocuments": 1598228,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "매장결제",
+      "monthlySearches": 20,
+      "snapshotBlogDocuments": 4841333,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "신용카드수수료환급",
+      "monthlySearches": 130,
+      "snapshotBlogDocuments": 63572,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "가맹점수수료",
+      "monthlySearches": 90,
+      "snapshotBlogDocuments": 264941,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "네이버페이가맹점",
+      "monthlySearches": 1480,
+      "snapshotBlogDocuments": 124324,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "소상공인카드수수료환급신청",
+      "monthlySearches": 340,
+      "snapshotBlogDocuments": 11484,
+      "sourceGrade": "중간 키워드"
+    },
+    {
+      "keyword": "소상공인카드수수료",
+      "monthlySearches": 2130,
+      "snapshotBlogDocuments": 108803,
+      "sourceGrade": "경쟁 키워드"
+    },
+    {
+      "keyword": "소상공인카드수수료환급",
+      "monthlySearches": 3810,
+      "snapshotBlogDocuments": 15437,
+      "sourceGrade": "황금 키워드"
+    },
+    {
+      "keyword": "카드수수료환급",
+      "monthlySearches": 4050,
+      "snapshotBlogDocuments": 134842,
+      "sourceGrade": "중간 키워드"
+    }
+  ]
+}
